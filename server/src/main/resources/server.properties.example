@@ -1,0 +1,18 @@
+#server listen port
+#eagle.server.port=8080
+
+#netty server channel
+#eagle.server.channel.class.name=
+
+#idle time
+#eagle.server.channel.max.idle.time=30000
+
+#message decoder and encoder package
+#eagle.server.scan.package=yj
+
+# execute thread num
+#eagle.server.execute.thread.num=8
+#daemon start
+#eagle.server.daemon.start=true
+#message name generator
+#eagle.server.message.name.generator=

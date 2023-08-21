@@ -1,0 +1,22 @@
+#server port
+#eagle.client.server.port=8080
+#server host
+#eagle.client.server.host=127.0.0.1
+#read timeout
+#eagle.client.read.timeout=30000
+
+#netty client channel
+#eagle.client.channel.class.name=
+
+#idle time
+#eagle.client.channel.max.idle.time=30000
+
+#message decoder and encoder package
+#eagle.client.scan.package=yj
+#max channel connection
+#eagle.client.max.connections=10
+#acquire channel timeout
+#eagle.client.acquire.timeout=30000
+
+#message name generator
+#eagle.client.message.name.generator=
